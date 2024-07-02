@@ -1,8 +1,9 @@
 package com.microservice_Ecom.order_service.model;
 
-import jakarta.persistence.*;
+
 import lombok.*;
 
+import javax.persistence.*;
 import java.math.BigDecimal;
 import java.util.List;
 
